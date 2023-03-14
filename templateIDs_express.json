@@ -1,0 +1,22 @@
+
+{
+    "templateids": [
+        {
+            "TemplateName" : "SFI_EUC_CAM",
+            "TemplateID"  : "0TT5g00000Yp6oL"
+        },
+        {
+            "TemplateName" : "SFI_EUC_CCC",
+            "TemplateID"  : "0TT5g00000Yp6oL"
+        },
+        {
+            "TemplateName" : "SFI_EUC_LASM",
+            "TemplateID"  : "0TT5g00000Yp6oL"
+        },
+        {
+            "TemplateName" : "SFI_EUC_USC",
+            "TemplateID"  : "0TT5g00000Yp6oL"
+        }
+    ]
+}
+
