@@ -3,7 +3,11 @@
     "templateids": [
         {
             "TemplateName" : "SFI_EUC_CAM",
-            "TemplateID"  : "0TT8Z000002vliA"
+            "TemplateID"  : "0TT2H000000XigT"
+        },
+        {
+            "TemplateName" : "SFI_EUC_CAM_OSV",
+            "TemplateID"  : "0TT5g00000Yp7Mp"
         },
         {
             "TemplateName" : "SFI_EUC_CCC",
