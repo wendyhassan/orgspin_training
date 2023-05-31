@@ -11,15 +11,63 @@
         },
         {
             "TemplateName" : "SFI_EUC_CCC",
-            "TemplateID"  : "0TT8Z000002vliA"
+            "TemplateID"  : "0TT2H000000XigT"
         },
         {
-            "TemplateName" : "SFI_EUC_LASM",
-            "TemplateID"  : "0TT8Z000002vliA"
+            "TemplateName" : "SFI_EUC_CCC_OSV",
+            "TemplateID"  : "0TT5g00000Yp7Mp"
         },
         {
-            "TemplateName" : "SFI_EUC_USC",
-            "TemplateID"  : "0TT5g00000Yp6oL"
+            "TemplateName" : "SFI_EUC_LAM",
+            "TemplateID"  : "0TT2H000000XigT"
+        },
+        {
+            "TemplateName" : "SFI_EUC_LAM_OSV",
+            "TemplateID"  : "0TT5g00000Yp7Mp"
+        },
+        {
+            "TemplateName" : "SFI_EUC_USP",
+            "TemplateID"  : "0TT2H000000XigT"
+        },
+        {
+            "TemplateName" : "SFI_EUC_USP_OSV",
+            "TemplateID"  : "0TT5g00000Yp7Mp"
+        },
+        {
+            "TemplateName" : "SFI_CC_MSM",
+            "TemplateID"  : "0TT3t000004Qpvt"
+        },
+        {
+            "TemplateName" : "SFI_CC_ESM",
+            "TemplateID"  : "0TT3x000000kld8"
+        },
+        {
+            "TemplateName" : "SFI_CC_ESM_OSV",
+            "TemplateID"  : "0TTDp0000015LJh"
+        },
+        {
+            "TemplateName" : "SFI_HLS_LGQ",
+            "TemplateID"  : "0TT4x000008iuiI"
+        },
+        {
+            "TemplateName" : "SFI_HLS_IFM",
+            "TemplateID"  : "0TT5e00000E1aqa"
+        },
+        {
+            "TemplateName" : "SFI_MC_ASM",
+            "TemplateID"  : "0TT3c000000JFvn"
+        },
+        {
+            "TemplateName" : "SFI_MC_SLM",
+            "TemplateID"  : "0TT4w000002Z4TZ"
+        },
+        {
+            "TemplateName" : "SFI_INS_GVB",
+            "TemplateID"  : "0TT3i000003xSMY"
+        },
+        {
+            "TemplateName" : "SFI_INS_PC",
+            "TemplateID"  : "0TT3i000004Dj5r"
         }
     ]
 }
